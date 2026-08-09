@@ -1,2 +1,3 @@
 ## Hi there 👋
-## I am Jyotiranjan
+# I am Jyotiranjan
+**Full Stack Developer (MERN)**
