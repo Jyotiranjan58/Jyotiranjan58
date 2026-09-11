@@ -83,7 +83,6 @@ A Git-inspired full-stack application with repository management and command-lin
 
 **May 2025 - Oct 2025 | Bhubaneswar, Odisha**
 
-Worked on FuelUp, a fuel delivery web application, using technologies including React.js, Node.js, Express.js, MongoDB, and Tailwind CSS.
 
 ---
 
