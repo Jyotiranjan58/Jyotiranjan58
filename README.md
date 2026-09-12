@@ -98,7 +98,7 @@ Srusti Academy of Management and Technology
 ## 📫 Connect With Me
 
 - 🌐 [Portfolio](https://jyotiranjan-portfolio.vercel.app/)
-- 💼 [LinkedIn](linkedin.com/in/jyotiranjan-jena)
+- 💼 [LinkedIn](https://www.linkedin.com/in/jyotiranjan-jena)
 - 📧 jyotiranjanjena58@gmail.com
 
 ---
